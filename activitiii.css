@@ -1,0 +1,118 @@
+body{
+	background: #E3F6CE;
+}
+.cuadradote{
+	position: absolute;
+	top:4%;
+	left: 1%;
+	right: 1%;
+	height: 90%;
+	background: #D8D8D8;
+	border: solid 4px black;
+}
+.titulo{
+font-size: 60px;
+	color: black;	
+	position: absolute;
+	font-family: Microsoft JhengHei UI Light;
+	top: 1%;
+	left: 2%;
+	width: 32%;
+	height: 16%;
+	right: 30%;
+	border: solid 4px black;
+	padding-left:25px;
+	padding-top:2px;
+	padding-right:25px;
+	box-sizing: border-box;
+	background: white;
+}
+.parrafuno{
+	position: absolute;
+	top: 20%;
+	left: 2%;
+	width: 31%;
+	height: 40%;
+	border: solid 4px;
+	background: #B5F8F1;
+	
+}
+.foto1{
+		position: absolute;
+	top: 105%;
+	left: 0%;
+	width: 33%;
+	height: 70%;
+	background: url("harrystyles.jpeg");
+	background-size: cover;
+	border: solid 4px black;
+
+}
+.parrafodos{
+	position: absolute;
+	top: 105%;
+	left: 40%;
+	width: 60%;
+	height: 80%;
+	background: #D4C8F9;
+	border: solid 4px;
+}
+.cuadradotwo{
+	position: absolute;
+	top: 1%;
+	left: 57%;
+	width: 40% ;
+	height: 56%;
+	background: #F9DBC8;
+	border: solid 4px;
+}
+.parrafotres{
+	position: absolute;
+	top:2%;
+	left: 60%;
+	width: 35%;
+	height: 19%;
+	background: #FFD29B;
+	border: solid 3px;
+}
+.foto2{
+	position: absolute;
+	top: 5%;
+	left: 200%;
+	width: 40%;
+	height: 80%;
+	background: url("haryloverrrr.jpeg");
+	background-size: cover;
+	border: solid 3px black;
+}
+.foto3{
+	position: absolute;
+	top: 5%;
+	left: 250%;
+	width: 40%;
+	height: 80%;
+	background: url("yoooooooootuu.jpeg");
+	background-size: cover;
+	border: solid 3px black;
+}
+.parrafocuatro{
+	position: absolute;
+	top: 60%;
+	left: 57%;
+	width: 20%;
+	height: 29%;
+	background: #9BE8FF;
+	border: solid 4px black;
+}
+.foto4{
+	position: absolute;
+	top: 98%;
+	left: 266%;
+	width: 40%;
+	height: 80%;
+	background: url("aaaaa.jpeg");
+	background-size: cover;
+	border: solid 4px black;
+
+}
+
